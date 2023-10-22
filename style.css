@@ -1,0 +1,56 @@
+a {
+  text-decoration: none !important;
+}
+a:hover {
+  text-decoration: underline !important;
+}
+.my-pt {
+  padding-top: 9px;
+}
+.my-nav {
+  background-color: white !important;
+}
+.my-cb {
+  color: #0052ff;
+  font-weight: bold;
+}
+.my-sign {
+  background-color: #eef0f3;
+  color: black;
+  font-weight: 600;
+}
+.my-sign:hover {
+  background-color: #e9ebee;
+}
+.my-getstrt {
+  background-color: #0052ff;
+  color: white;
+  font-weight: 600;
+}
+.my-getstrt:hover {
+  background-color: #014cec;
+  color: white;
+}
+.inputsearch {
+  padding: 16px;
+}
+.my-bg {
+  background-color: black !important;
+  color: white;
+  min-height: 220px;
+}
+.my-margin {
+  margin-left: 170px;
+}
+.btn-LrnMore {
+  padding: 12px;
+  border-radius: 50px;
+  color: black;
+  font-weight: 700;
+  width: 200px;
+  background: #477ef6;
+  outline: none;
+}
+.btn-LrnMore span i {
+  font-size: 20px;
+}
