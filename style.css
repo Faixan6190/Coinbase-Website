@@ -7,6 +7,10 @@ a:hover {
 .my-pt {
   padding-top: 9px;
 }
+.sec1-pad {
+  padding-top: 130px;
+  padding-bottom: 30px;
+}
 .my-nav {
   background-color: white !important;
 }
@@ -53,4 +57,11 @@ a:hover {
 }
 .btn-LrnMore span i {
   font-size: 20px;
+}
+.md-btn {
+  max-width: 120px;
+}
+.shadow-box:hover {
+  box-shadow: 2px 8px 6px 0px lightgrey;
+  padding: 0 15px;
 }
