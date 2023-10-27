@@ -67,5 +67,18 @@ a:hover {
 }
 .anchr-1 {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 700;
+}
+.bg-sec-5 {
+  background: #0052ff;
+}
+.last-sec {
+  background: #f5f8ff;
+}
+.my-pad {
+  padding-left: 200px;
+  padding-top: 150px;
+}
+.own-list {
+  list-style-type: square;
 }
